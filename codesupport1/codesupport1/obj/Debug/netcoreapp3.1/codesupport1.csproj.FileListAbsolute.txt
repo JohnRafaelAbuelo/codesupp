@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.exe
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.deps.json
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.runtimeconfig.json
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.dll
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\bin\Debug\netcoreapp3.1\codesupport1.pdb
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.dll
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.pdb
+C:\Users\Rafael\Desktop\GITHUB REPOS\CODE SUPPORT\codesupport1\codesupport1\obj\Debug\netcoreapp3.1\codesupport1.genruntimeconfig.cache
