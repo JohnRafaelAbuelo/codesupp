@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.codesupport1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="codesupport1/Program.cs">
     <Files>
-      <File FileName="codesupport1/Program.cs" Line="11" Column="24" />
+      <File FileName="codesupport1/Program.cs" Line="11" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +13,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
